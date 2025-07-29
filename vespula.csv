@@ -1,0 +1,29 @@
+Tratamiento;Repeticion;workers;males;Total
+Agua con detergente;1;93;1;94
+Agua con detergente;2;91;4;95
+Agua con detergente;3;27;0;27
+Agua con detergente;4;30;0;30
+HH ;1;89;4;93
+HH ;2;261;9;270
+HH ;3;138;1;139
+HH ;4;93;1;94
+HH + Abamectina;1;114;7;121
+HH + Abamectina;2;450;4;454
+HH + Abamectina;3;145;0;145
+HH + Abamectina;4;111;0;111
+HH + Fipronil;1;134;11;145
+HH + Fipronil;2;462;9;471
+HH + Fipronil;3;224;0;224
+HH + Fipronil;4;90;1;91
+HH + Imidacloprid;1;185;7;192
+HH + Imidacloprid;2;239;5;244
+HH + Imidacloprid;3;165;2;167
+HH + Imidacloprid;4;102;1;103
+HH + Spinosad;1;141;14;155
+HH + Spinosad;2;246;4;250
+HH + Spinosad;3;178;2;180
+HH + Spinosad;4;123;0;123
+HH + Triflumurón;1;142;9;151
+HH + Triflumurón;2;426;8;434
+HH + Triflumurón;3;145;1;146
+HH + Triflumurón;4;64;1;65
